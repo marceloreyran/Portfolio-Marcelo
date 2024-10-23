@@ -23,15 +23,17 @@ function effectSkills(){
         abilitys[0].classList.add("Html");
         abilitys[1].classList.add("Css");
         abilitys[2].classList.add("JavaScript");
-        abilitys[3].classList.add("Git");
-        abilitys[4].classList.add("Github");
-        abilitys[5].classList.add("React");
-        abilitys[6].classList.add("Comunication");
-        abilitys[7].classList.add("Creativity");
-        abilitys[8].classList.add("Teamwork");
-        abilitys[9].classList.add("Autodidact");
-        abilitys[10].classList.add("Leadership");
-        abilitys[11].classList.add("Adaptability");
+        abilitys[3].classList.add("Figma");
+        abilitys[4].classList.add("Git");
+        abilitys[5].classList.add("Github");
+        abilitys[6].classList.add("React");
+        abilitys[7].classList.add("Comunication");
+        abilitys[8].classList.add("Creativity");
+        abilitys[9].classList.add("Teamwork");
+        abilitys[10].classList.add("Autodidact");
+        abilitys[11].classList.add("Leadership");
+        abilitys[12].classList.add("Adaptability");
+        abilitys[13].classList.add("Problem-solving");
     }
 }
 
