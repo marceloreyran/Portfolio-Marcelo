@@ -7,8 +7,7 @@
         padding: 0;
     }
 
-
-    html {
+      html {
         scroll-behavior: smooth;
     }
 
@@ -44,7 +43,7 @@
 
     .container-header header nav ul li a {
         text-align: none;
-        color: #fff;
+        color: azure;
         margin: 0 15px;
         padding: 3px;
         transition: .5s;
@@ -64,8 +63,8 @@
         display: none;
     }
     .menu {
-        background: linear-gradient(to top, rgba(30, 35, 38, .7), rgba(30, 35, 38, 2)),
-            url(/images/back.jpeg);
+        background: linear-gradient(to top, rgba(30, 35, 38, .7), rgba(30, 35, 38, 2));
+        /* url(/images/back.jpeg); background */
         background-size: cover;
         height: 100vh;
         color: #fff;
@@ -104,15 +103,16 @@
     }
 
     .menu .container-banner h2 {
+        margin-top: 20px;
         font-size: 15px;
-        font-weight: normal;
+        font-weight: bold;
     }
 
     .menu .container-banner .social a {
         color: #fff;
         display: inline-block;
         text-decoration: none;
-        border: 1px solid #fff;
+        border: 1.5px solid #fff;
         border-radius: 100%;
         width: 42px;
         height: 42px;
