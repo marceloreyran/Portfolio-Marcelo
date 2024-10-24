@@ -64,7 +64,7 @@
     }
     .menu {
         background: linear-gradient(to top, rgba(30, 35, 38, .7), rgba(30, 35, 38, 2)),
-        url(/images/back.jpeg); /* Image Background */
+        url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg); /* Image Background */
         background-size: cover;
         height: 100vh;
         color: #fff;
