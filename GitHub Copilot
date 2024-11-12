@@ -13,6 +13,7 @@ User Settings:
     "debug.useNodeFetcher": false
   }
 ```
+## Connecting to GitHub API
 
 Connecting to https://api.github.com:
 - DNS ipv4 Lookup: 140.82.112.6 (116 ms)
