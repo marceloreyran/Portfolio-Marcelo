@@ -29,6 +29,6 @@ Connecting to https://api.individual.githubcopilot.com/_ping:
 - Node Fetcher: HTTP 200 (181 ms)
 - Helix Fetcher: HTTP 200 (250 ms)
 - Helix Fetcher: HTTP 300 (350 ms)
-## Documentation
-
+  
+## Documentation new
 In corporate networks: [Troubleshooting firewall settings for GitHub Copilot](https://docs.github.com/en/copilot/troubleshooting-github-copilot/troubleshooting-firewall-settings-for-github-copilot).
