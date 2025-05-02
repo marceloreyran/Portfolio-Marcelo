@@ -815,10 +815,10 @@
         .contact .col .info {
             position: absolute;
             top: 40%;
+            left: 49%;
             background-color: #252A2E;
             padding: 20px;
-            max-width: 350px;
-            left: 50%;
+            max-width: 360px;
             transform: translate(-50%, -50%);
         }
 
